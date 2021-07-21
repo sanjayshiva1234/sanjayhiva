@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: cornsilk;
+}
+#hobbies{
+  background-color: floralwhite;
+    font-family: cursive;
+    text-align: center;
+}
+#favourites{
+    background-color: antiquewhite;
+    font-family: cursive;
+    text-align: center;
+}
+#boruto{
+    text-align: center;
+    image-resolution: from-image;
+    width: auto;
+}
